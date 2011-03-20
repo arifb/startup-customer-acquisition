@@ -3,7 +3,7 @@ layout: post
 style: text
 title: SEO - Techniques to Increase Your Organic Search Rankings
 categories: 
-  - seo
+  - SEO
 ---
 
 ### Method 1: Dynamic Landing Pages

@@ -3,7 +3,7 @@ layout: post
 style: text
 title: SEO - Quick and Simple Ways to Increase Your Ranking
 categories: 
-  - seo
+  - SEO
 ---
 
 ### SEO - Low Hanging Fruit
