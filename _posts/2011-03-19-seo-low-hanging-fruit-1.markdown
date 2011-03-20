@@ -17,6 +17,7 @@ With each category of Customer Acquisition, I hope to have 1 or more posts in th
   * Using keywords in image tags alt text
   * Using keywords in the meta tags
 
+
 * On-Page Factors, Non-Keyword specific
   * The most important of all, the writing relevant, unique content
   * Freshness of page, was it created recently
