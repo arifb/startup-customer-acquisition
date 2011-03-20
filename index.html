@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="section-listing">
+    <h2>Categories and Posts</h2>
+
+    <ol class="group">
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+                <span class="snip">{{ post.snip }}</span>
+            </li>
+        {% endfor %}
+    </ol>
+
+            {% include about.html %}
+
+</div>
