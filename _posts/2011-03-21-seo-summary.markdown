@@ -6,7 +6,7 @@ categories:
   - SEO
 ---
 
-There are many on-page optimizations one can do to increase a site ranking, summarized "TODO: relevant anchor text, link" [here](/), however the general consensus is that inbound links combined with high-quality, relevant content will trump anything else you can do. 
+There are many on-page optimizations one can do to increase a site ranking however the general consensus is that inbound links combined with high-quality, relevant content will trump anything else you can do. 
 
 ## Content
 Attempting to build content without a scalable strategy is a tough game to play, one that is very time consuming. Some techniques to leverage the time you and your team put into generating content and turning that time into results are below:
