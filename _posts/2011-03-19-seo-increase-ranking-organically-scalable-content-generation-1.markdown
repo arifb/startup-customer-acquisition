@@ -1,7 +1,7 @@
 ---
 layout: post
 style: text
-title: SEO - Techniques to Increase Your Organic Search Rankings
+title: SEO - Techniques to Increase Your Organic Search Rankings - Scalable Content Generation
 categories: 
   - SEO
 ---
